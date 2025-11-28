@@ -1,4 +1,4 @@
-# Individueel Project: Feedforward Visualisatie voor Robotarmen
+# Individueel Project: AR Feedforward Visualisatie voor Robotarmen
 
 **Academiejaar:** 2025-2026  
 **Student:** Stijn De Busser  
