@@ -1,4 +1,5 @@
 # Literatuurlijst relevant aan kerncomponenten uit onderzoeksprobleem
+
 ## Verduidelijking
 Bij het zoeken naar literatuur betreffende _feedforward_ en _robotica_ kwam ik steeds terecht bij model-based feedforward.
 Gezien de frequentie van dit zoekresultaat alsook de gelijkenis in woordkeuze wil ik even toelichten dat model-based feedforward iets anders is dan feedforward met
