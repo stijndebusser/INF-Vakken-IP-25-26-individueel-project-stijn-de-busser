@@ -29,11 +29,11 @@ Het antwoord ligt in de fundamentele rol van de menselijke operator in het proce
 
 ## 1. Onderzoeksprobleem
 
-In moderne manufacturing-omgevingen worden robotarmen steeds vaker ingezet voor repetitieve en precisienauwkeurige taken. Operators die deze robotarmen instellen, programmeren of monitoren, missen echter vaak visuele feedback over toekomstige bewegingen. Dit gebrek aan voorspellende informatie leidt tot drie belangrijke uitdagingen. Deze zijn opgesplitst in kerncomponenten:
+In moderne manufacturing-omgevingen worden robotarmen steeds vaker ingezet voor repetitieve en nauwkeurige taken. Operators die deze robotarmen instellen, programmeren of monitoren, missen echter vaak visuele feedback over toekomstige bewegingen. Dit gebrek aan voorspellende informatie leidt tot drie belangrijke uitdagingen. Deze zijn opgesplitst in kerncomponenten:
 
 1. **Gebrek aan traject-voorspelling**: Operators vinden het moeilijk of kunnen helemaal niet anticiperen op het volledige bewegingspad van de robot. Dit kan leiden tot foutief of onnauwkeurig instellen of programmeren, waarbij operators onzeker blijven of de ingestelde parameters tot de gewenste beweging zullen leiden.
 
-2. **Onvoldoende collision awareness**: Potentiële collisies worden te laat of pas na impact zichtbaar, wat schade kan aanrichten aan de fysieke robotarm, tooling of werkstukken.
+2. **Onvoldoende collision awareness**: Potentiële collisies worden te laat of pas na impact zichtbaar, wat schade kan aanrichten aan de fysieke robotarm, tooling of werkstukken. Er bestaan daarbij ook geen afstandsindicatoren of bepaalde zones tussen robots en obstacles.
 
 3. **Beperkte spatial awareness**: Dit is een algemeen probleem dat mogelijk de vorige twee uitdagingen omvat. Bij het instellen wordt over het algemeen geen gebruik gemaakt van een reële 3D-omgeving, in tegenstelling tot hoe de situatie in realiteit ervaren wordt. Zelfs speciaal gemaakte visualisaties kunnen tekortkomen aan de noden van een volledige 3D-interpretatie. Het is ingewikkeld een ruimtelijk mentaal model te vormen op basis van 2D-schermen.
 
