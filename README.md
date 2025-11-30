@@ -2,7 +2,7 @@
 
 **Academiejaar:** 2025-2026  
 **Student:** Stijn De Busser  
-**Promotors:** Prof. Dr. Kris Luyten & Dries Cardinaels
+**Promotors:** Prof. Dr. Kris Luyten, Prof. Dr. Raf Ramakers, Dries Cardinaels
 
 ---
 
