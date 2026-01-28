@@ -26,6 +26,7 @@ Het onderzoeksproject addresseert drie belangrijke uitdagingen:
 - [**Literatuurstudie**](docs/literatuurstudie.md) - Overzicht van relevante literatuur en onderzoek
 - [**Verslagen**](docs/verslagen.md) - Vergaderverslagen en opvolgingsmomenten
 - [**Timesheet**](docs/timesheet.md) - Tijdsregistratie van activiteiten
+- [**Onderzoeksvragen**](docs/onderzoeksvragen.md) - Onderzoeksvragen en doelen
 
 ---
 
