@@ -8,3 +8,4 @@
 | 29/11 | 5u   | Partiële uitzoeking van gepaste literatuur en onduidelijkheden, beperkingen en kerncomponenten hieruit gehaald             |
 | 30/11 | 2u   | Toevoeging aan literatuur & overzicht bevindingen + tabel |
 | 28/01 | 2u   | Onderzoeksvragen |
+| 29/01 | 1u   | Onderzoeksvragen |

@@ -27,6 +27,7 @@ Het onderzoeksproject addresseert drie belangrijke uitdagingen:
 - [**Verslagen**](docs/verslagen.md) - Vergaderverslagen en opvolgingsmomenten
 - [**Timesheet**](docs/timesheet.md) - Tijdsregistratie van activiteiten
 - [**Onderzoeksvragen**](docs/onderzoeksvragen.md) - Onderzoeksvragen en doelen
+- [**Methodologie**](docs/methodologie.md) - Methodologie en aanpak
 
 ---
 
@@ -43,4 +44,4 @@ Het doel is om operators te ondersteunen bij het instellen, programmeren en moni
 
 ## 🔧 Status
 
-Project in onderzoeksfase - momenteel bezig met probleemdefiniëring en literatuurstudie.
+Project in onderzoeksfase - momenteel bezig met onderzoeksvragen en methodologie
