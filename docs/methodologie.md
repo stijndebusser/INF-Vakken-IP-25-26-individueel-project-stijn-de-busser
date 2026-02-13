@@ -1,10 +1,8 @@
 # Methodologie
 
-Voor dit onderzoek kunnen enkele medestudenten of anderen worden gerekruteerd om het systeem uit te testen. Zij zijn relevant als mogelijke toekomstige gebruikers.
+Voor dit onderzoek worden verschillende visualisatietypes ontwikkeld en geëvalueerd, met als doel de bruikbaarheid en het voordeel ervan voor de operator te bepalen. De focus ligt op visualisaties voor traject-voorspelling, collision awareness en spatial awareness. De implementatie gebeurt in Unity, waarbij C# als programmeertaal wordt gebruikt en de Magic Leap 2 als AR-platform dient. Deze keuze maakt het mogelijk om 3D-visualisaties direct in de reële omgeving te tonen en interactief te testen.
 
-Het onderzoek bestaat uit het vergelijken van de verschillende visualisatietypes en de bruikbaarheid of het voordeel hiervan om het daadwerkelijk te gebruiken. Onder deze visualisatietypes verstaan we de traject-voorspellingvisualisatie en de collision-awarenessvisualisatie, alsook mogelijke extra's waar tot op heden nog niet aan gedacht is, onder de overkoepelende term spatial awareness. In een bepaalde gesimuleerde omgeving, samen met de robotarm, vindt dit testproces plaats.
+Voor de evaluatie kunnen enkele medestudenten of andere potentiële eindgebruikers worden gerekruteerd om het systeem uit te proberen. Het onderzoek bestaat uit het vergelijken van de verschillende visualisatietypes en het beoordelen van hun bruikbaarheid en effectiviteit. Dit gebeurt in een gesimuleerde omgeving waarin de robotarm en relevante objecten zichtbaar zijn via de AR-bril.
 
-De omgeving bevat dus de robotarm als onderdeel van het speelveld, zichtbaar via een AR-bril.
-
-De evaluatie is dus eerder op basis van subjectieve ondervindingen en richt zich op de voorkeur vanuit gebruikersperspectief. Dit schetst hopelijk een beeld waarop we de beste visualisatie verder kunnen gebruiken of ontwikkelen.
+De evaluatie is voornamelijk gebaseerd op subjectieve ondervindingen en richt zich op de voorkeuren en ervaringen van de gebruikers. Op basis van deze feedback kan bepaald worden welke visualisaties het meest geschikt zijn voor feedforward in een mogelijks industriële context en hoe deze verder geoptimaliseerd kunnen worden.
 

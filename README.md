@@ -6,9 +6,10 @@
 
 ---
 
+
 ## 📋 Overzicht
 
-Dit project richt zich op het ontwikkelen van **feedforward-visualisaties** voor robotarmen in een manufacturing-omgeving met behulp van Augmented Reality (AR). In plaats van feedback achteraf te geven, visualiseert feedforward proactief toekomstige bewegingen, trajecten en potentiële collisies voordat deze plaatsvinden.
+Dit project richt zich op het ontwikkelen van **feedforward-visualisaties** voor robotarmen in een manufacturing-omgeving met behulp van Augmented Reality (AR). De implementatie gebeurt in Unity (C#) en wordt uitgevoerd op de Magic Leap 2 AR-bril. In plaats van feedback achteraf te geven, visualiseert feedforward proactief toekomstige bewegingen, trajecten en potentiële collisies voordat deze plaatsvinden.
 
 ### Kerncomponenten
 
@@ -20,14 +21,23 @@ Het onderzoeksproject addresseert drie belangrijke uitdagingen:
 
 ---
 
+
 ## 📚 Documentatie
 
-- [**Probleembeschrijving**](docs/probleembeschrijving.md) - Uitgebreide beschrijving van het onderzoeksprobleem en context
-- [**Literatuurstudie**](docs/literatuurstudie.md) - Overzicht van relevante literatuur en onderzoek
-- [**Verslagen**](docs/verslagen.md) - Vergaderverslagen en opvolgingsmomenten
-- [**Timesheet**](docs/timesheet.md) - Tijdsregistratie van activiteiten
-- [**Onderzoeksvragen**](docs/onderzoeksvragen.md) - Onderzoeksvragen en doelen
-- [**Methodologie**](docs/methodologie.md) - Methodologie en aanpak
+- [**Probleembeschrijving**](docs/probleembeschrijving.md) – Uitgebreide beschrijving van het onderzoeksprobleem en context
+- [**Literatuurstudie**](docs/literatuurstudie.md) – Overzicht van relevante literatuur en onderzoek
+- [**Verslagen**](docs/verslagen.md) – Vergaderverslagen en opvolgingsmomenten
+- [**Timesheet**](docs/timesheet.md) – Tijdsregistratie van activiteiten
+- [**Onderzoeksvragen**](docs/onderzoeksvragen.md) – Onderzoeksvragen en doelen
+- [**Methodologie**](docs/methodologie.md) – Methodologie en aanpak
+
+---
+
+## 📄 Overleaf (LaTeX-paper)
+
+De volledige paper wordt uitgewerkt in Overleaf:
+
+[Overleaf-project: Individueel Project Feedforward Visualisatie](https://www.overleaf.com/5528492534vnsjrsmdgmcz#bd7418)
 
 ---
 
@@ -44,4 +54,4 @@ Het doel is om operators te ondersteunen bij het instellen, programmeren en moni
 
 ## 🔧 Status
 
-Project in onderzoeksfase - momenteel bezig met onderzoeksvragen en methodologie
+Project in onderzoeksfase – momenteel bezig met implementatie en paper.

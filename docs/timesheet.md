@@ -9,3 +9,6 @@
 | 30/11 | 2u   | Toevoeging aan literatuur & overzicht bevindingen + tabel |
 | 28/01 | 2u   | Onderzoeksvragen |
 | 29/01 | 1u   | Onderzoeksvragen |
+| 12/02 | 4u   | Opzetten van Magic Leap 2 in unity |
+| 12/02 | 2u   | Visualisatie bewegend blokje in unity met basis traject-lijn |
+| 13/02 | 2.5u   | Eerste versie van de paper opgemaakt volgens template |
