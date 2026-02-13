@@ -54,4 +54,4 @@ Het doel is om operators te ondersteunen bij het instellen, programmeren en moni
 
 ## 🔧 Status
 
-Project in onderzoeksfase – momenteel bezig met implementatie en paper.
+Project in implementatiefase – momenteel bezig met implementatie en paper.
