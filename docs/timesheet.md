@@ -17,6 +17,12 @@
 | 19/02 | 1.5u   | Script vast pad/traject tussen punten in een ruimte. Update() functie van MonoBehaviour van Unity extension update het pad per frame naar een doelobject (nog niet getest in ML2). |
 | 26/02 | 3u   | Setup XR handen met pinch/grab actie voor object (nog niet werkende)|
 | 26/02 | 2u   | Setup XR handen met pinch/grab actie voor object (werkende met controllers in unity (zonder headset of handgebaren getest)) |
+| 05/03 | 7u   | Setup XR handen met pinch/grab actie voor object werkende tezamen met huidige scène |
+| 19/03 | 1u   | Meeting met supervisor om volgende stappen te bespreken zoals vermeld verslagen.md. |
+| 20/03 | 6u   | Setup van gekregen scène met hand interaction settings (nog niet getest). Geprobeerd met AI het IK_Calculator.cs script aan te vullen om de robotarm naar nodes te kunnen verplaatsen. Dit werkt maar de arm bewegingen zijn niet exact en vaak inaccuraat. Setup van een eerste visualisatie met een traject/pad tussen nodes + collisies van pad met objecten. De objecten worden enkel geregistreerd van zodra hier een box/mesh collider op zit dus niet dynamisch. Doorgaan naar een volgende node visualiseerd een pad in de curve van de beweging, de curve loopt niet exact tot de node wat waarschijnlijk komt door de inaccuraatheid van de robotarm beweging tot node zelf. |
+
+
+
 
 
 
