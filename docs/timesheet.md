@@ -25,6 +25,12 @@
 | 01/04 | 4.5u   | Pad traject implementatie verbeterd aangezien de vorige implementatie de arm naar achter forceerde. De nieuwe implementatie geeft een elbow up posture i.p.v. elbow down wat het een accurater resultaat geeft momenteel. Aangezien het pad nu meer nauwkeurig is, werd de visualisatie hiervan ook beter. Daarna verder gewerkt aan nieuwe visualisatie die een 'ghost skeleton' in bepaalde intervallen weergeeft met veranderingen aan opacity naargelang hoe de robotarm gepositioneerd was op dat moment. Ten laatste nog opgezocht en geprobeerd een soort clamping te maken aan een 'out of reach volume/sphere' van zodra een node buiten bereik is, maar vraag mezelf wel nog af of dit nodig is, en hoe dit aangegeven zou moeten worden. |
 | 02/04 | 5u   | Gewerkt en verbetering van de ArUco tracking, deze is niet meer beperkt aan de initiële kijkrichting. De AR visualisaties zijn wel nog altijd minder accuraat dan in de Unity simulator wat mogelijks komt door micro-jitter als de scene zich de hele tijd correct wil calibreren aan de ArUco marker. In de Unity simulator zelf is de scene vastgezet waardoor de robotarm (en dus visualisaties) een stuk accurater zijn. Vorige keer had ik een ghost skeleton van het pad geïmplementeerd maar dat waren enkel editor-only gizmos dus deze zijn nu LineRenderers zodat deze zichtbaar zijn in AR. De lijnen zelf verdwijnen van zodra de robotarm hier al voorbij is. Ten laatste nog gewerkt aan het spawnen van (interactable) nodes bij een linkshandig pinchgebaar. Het probleem hierbij was dat dit onbeperkt zou blijven verschijnen, wat nu tijdelijk (of mogelijks permanent) opgelost wordt door de pinchactie 2 seconden lang te laten duren met progress bar vooraleer er daadwerkelijk één wordt gecreëerd. De pinchactie is wel erg gevoelig. De nodes worden ook automatisch afgelopen op volgorde tot de laatste node. |
 | 24/04 | 4u   | Abstract en alle secties van de eerste versie in paper verbeterd + eerste versie van Methodologie met subsecties  |
+| 30/04 | 2.5u   | Methodologie af + referenties verbetering |
+| 07/05 | 5u   | Paper randimplementatie + begin echte implementatie (nog net voor traject-voorspelling) |
+
+
+**Totaal aantal uren:** 74.5u
+
 
 
 
