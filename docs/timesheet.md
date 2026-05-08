@@ -27,9 +27,10 @@
 | 24/04 | 4u   | Abstract en alle secties van de eerste versie in paper verbeterd + eerste versie van Methodologie met subsecties  |
 | 30/04 | 2.5u   | Methodologie af + referenties verbetering |
 | 07/05 | 5u   | Paper randimplementatie + begin echte implementatie (nog net voor traject-voorspelling) |
+| 07/05 | 3u   | Paper technische details voor de visualisaties + begin aan traject voorspelling af |
 
 
-**Totaal aantal uren:** 74.5u
+**Totaal aantal uren:** 77.5u
 
 
 
