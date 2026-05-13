@@ -29,9 +29,11 @@
 | 07/05 | 5u   | Paper randimplementatie + begin echte implementatie (nog net voor traject-voorspelling) |
 | 08/05 | 3u   | Paper technische details voor de visualisaties + begin aan traject voorspelling af |
 | 09/05 | 3u   | Paper implementatie, kritische bespreking en conclusie af. Enkel bij implementatie moet nog iets verder afgeschreven worden wat nog extra implementatie vereist tenzij dit niet meer in achte genomen wordt. |
+| 13/05 | 5u   | Een tether/shield implementatie geïmplementeerd die een vorig concept hebben vervangen. Origineel was er in (reeds in gizmos) een outer sphere met grid lines tesamen met een textuele melding gemaakt om spatial awareness te verduidelijken. Dit genereerde meer clutter dan iets anders, momenteel is de huidige implementatie een stuk beter aangezien het meer lokaal de outer reach kan verduidelijken. Verder nog even geprobeerd variabelen te veranderen rond de AprilTag om mogelijks de visualisatie in AR te verbeteren maar deze is nog steeds inaccuraat.  |
+| 13/05 | 1u   | Paper implementatie voor de outer reach bounds geschreven.   |
 
 
-**Totaal aantal uren:** 80.5u
+**Totaal aantal uren:** 87u
 
 
 
